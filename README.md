@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Mamun-Hsn
-- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence.
-- 🌱 I’m currently mastering Python, Tableau, R, MySQL, Azure, Apache, Sapark, Hadoop, Artificial intelligence and Deep learning.
-- 💞️ I’m looking to collaborate on all topics related to Data Science, Machine Learning and Artificial Intelligence.
-- 📫 You can reach me on my email id mamunhsn07@gmail.com
+👋 Hi, I’m @Mamun-Hsn
+🌱 I love learning as a process and mostly about new things...
+🔭 I’m currently working as an Intern at  AiVariant
+🌱 I’m currently learning Machine Learning and Deep Learning
+💞️ I’m looking to collaborate on all topics related to Data Science, Machine Learning and Artificial Intellegence.
+👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
+🌱 I’m currently mastering Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial intellegence and Deep learning
+📫 You can reach me on my email id mamunhsn07@gmail.com
+
 
 <!---
 Mamun-Hsn/Mamun-Hsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
