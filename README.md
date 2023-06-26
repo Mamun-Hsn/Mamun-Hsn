@@ -10,7 +10,7 @@
 
 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
 
-🌱 I’m currently mastering Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial intellegence and Deep learning
+🌱 I’m currently mastering Python, Tableau, Power BI R, MySQL,  SAS, Artificial intellegence and Deep learning
 
 📫 You can reach me on my email id mamunhsn07@gmail.com
 
