@@ -2,7 +2,7 @@
 
 Data Scientist | Product & Business Analytics | Machine Learning Enthusiast
 
-Results-oriented Data Scientist with 1+ year of hands-on experience across Data Science, Business Analysis, and Product Support. I enjoy doing things the tried-and-true way: understand the problem deeply, clean the data properly, explore thoroughly, then model thoughtfully—no shortcuts, no magic tricks 🎩.
+Results-oriented Data Scientist with 3+ year of hands-on experience across Data Science, Business Analysis, and Product Support. I enjoy doing things the tried-and-true way: understand the problem deeply, clean the data properly, explore thoroughly, then model thoughtfully—no shortcuts, no magic tricks 🎩.
 
 I’ve worked closely with business stakeholders to translate real-world problems into data-driven solutions, from customer segmentation and churn prediction to demand forecasting and sentiment analysis. Currently, I’m working as a Product Executive Support at Swiggy, where I focus on data configuration, validation, and analytics workflows to ensure accuracy and impact.
 
