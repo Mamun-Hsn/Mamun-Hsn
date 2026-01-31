@@ -1,18 +1,30 @@
-👋 Hi, I’m @Mamun-Hsn
+👋 Hi, I’m Mamun Hsn - Product Analyst at Swiggy
 
-🌱 I love learning as a process and mostly about new things...
+Data Scientist | Product & Business Analytics | Machine Learning Enthusiast
 
-🔭 I’m currently working as an Intern at  AiVariant
+Results-oriented Data Scientist with 1+ year of hands-on experience across Data Science, Business Analysis, and Product Support. I enjoy doing things the tried-and-true way: understand the problem deeply, clean the data properly, explore thoroughly, then model thoughtfully—no shortcuts, no magic tricks 🎩.
 
-🌱 I’m currently learning Machine Learning and Deep Learning
+I’ve worked closely with business stakeholders to translate real-world problems into data-driven solutions, from customer segmentation and churn prediction to demand forecasting and sentiment analysis. Currently, I’m working as a Product Executive Support at Swiggy, where I focus on data configuration, validation, and analytics workflows to ensure accuracy and impact.
 
-💞️ I’m looking to collaborate on all topics related to Data Science, Machine Learning and Artificial Intellegence.
+🔧 What I work with
+	•	Languages & Tools: Python, SQL, Excel
+	•	Data & ML: Pandas, NumPy, Scikit-learn, EDA, Statistics, Hypothesis Testing
+	•	Machine Learning: Regression, Classification, Clustering, Ensemble Models, PCA
+	•	Deep Learning & NLP: TensorFlow, PyTorch, Hugging Face, OCR (Tesseract)
+	•	Visualization & Deployment: Matplotlib, Seaborn, Streamlit
 
-👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
+🚀 What I’ve built
+	•	End-to-end ML projects for customer segmentation, churn prediction, and recommendations
+	•	Predictive analytics on Brazilian e-commerce (OLIST dataset)
+	•	NLP models for review classification and sentiment analysis
+	•	Dashboards and insights for both technical and non-technical stakeholders
 
-🌱 I’m currently mastering Python, Tableau, Power BI R, MySQL,  SAS, Artificial intellegence and Deep learning
+📚 Mindset
+Curious by nature, disciplined by practice. I believe good models come from good questions, and great insights come from respecting the data. Always learning, always refining—like polishing an old tool until it shines ✨.
 
-📫 You can reach me on my email id mamunhsn07@gmail.com
+📫 Feel free to explore my repositories or connect with me—happy to collaborate and grow together.
+
+📫 You can reach me on my email id mamun_hsn@yahoo.com
 
 
 <!---
